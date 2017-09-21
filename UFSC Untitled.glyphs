@@ -1,5 +1,8 @@
 {
 .appVersion = "1060";
+DisplayStrings = (
+nnannooaoo
+);
 date = "2017-07-08 18:27:59 +0000";
 familyName = "New Font";
 fontMaster = (
@@ -2181,7 +2184,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2017-09-17 23:48:17 +0000";
+lastChange = "2017-09-18 00:24:23 +0000";
 layers = (
 {
 anchors = (
@@ -2222,24 +2225,24 @@ nodes = (
 "126 189 OFFCURVE",
 "78 154 OFFCURVE",
 "78 100 CURVE SMOOTH",
-"78 51 OFFCURVE",
-"115 9 OFFCURVE",
-"177 10 CURVE SMOOTH",
-"284 11 LINE SMOOTH",
-"359 12 OFFCURVE",
+"78 45 OFFCURVE",
+"120 11 OFFCURVE",
+"177 11 CURVE SMOOTH",
+"291 11 LINE SMOOTH",
+"355 11 OFFCURVE",
 "381 -14 OFFCURVE",
-"381 -52 CURVE SMOOTH",
-"381 -85 OFFCURVE",
-"365 -149 OFFCURVE",
-"241 -149 CURVE SMOOTH",
-"159 -149 OFFCURVE",
+"381 -54 CURVE SMOOTH",
+"381 -88 OFFCURVE",
+"365 -154 OFFCURVE",
+"241 -154 CURVE SMOOTH",
+"156 -154 OFFCURVE",
 "112 -120 OFFCURVE",
 "112 -70 CURVE SMOOTH",
-"112 -23 OFFCURVE",
-"153 6 OFFCURVE",
-"185 10 CURVE",
-"147 40 LINE",
-"84 28 OFFCURVE",
+"112 -22 OFFCURVE",
+"153 7 OFFCURVE",
+"185 11 CURVE",
+"147 41 LINE",
+"84 29 OFFCURVE",
 "40 -13 OFFCURVE",
 "40 -79 CURVE SMOOTH",
 "40 -155 OFFCURVE",
@@ -2295,7 +2298,7 @@ nodes = (
 );
 }
 );
-width = 508;
+width = 503;
 }
 );
 unicode = 0067;
@@ -2822,29 +2825,29 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2017-09-17 19:20:27 +0000";
+lastChange = "2017-09-18 14:17:29 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{255, 0}";
+position = "{250, 0}";
 },
 {
 name = center;
-position = "{255, 243}";
+position = "{250, 243}";
 },
 {
 name = ogonek;
-position = "{454, 10}";
+position = "{449, 10}";
 },
 {
 name = top;
-position = "{255, 486}";
+position = "{250, 486}";
 },
 {
 name = topright;
-position = "{484, 486}";
+position = "{479, 486}";
 }
 );
 layerId = "44A3F285-AC1C-4A7F-B2BD-0C498DBF5AFB";
@@ -2852,39 +2855,39 @@ paths = (
 {
 closed = 1;
 nodes = (
-"379 -10 OFFCURVE",
-"459 75 OFFCURVE",
-"459 244 CURVE SMOOTH",
-"459 413 OFFCURVE",
-"379 498 OFFCURVE",
-"255 498 CURVE SMOOTH",
-"131 498 OFFCURVE",
-"50 413 OFFCURVE",
-"50 244 CURVE SMOOTH",
-"50 75 OFFCURVE",
-"131 -10 OFFCURVE",
-"255 -10 CURVE SMOOTH"
+"374 -10 OFFCURVE",
+"454 75 OFFCURVE",
+"454 244 CURVE SMOOTH",
+"454 413 OFFCURVE",
+"374 498 OFFCURVE",
+"250 498 CURVE SMOOTH",
+"126 498 OFFCURVE",
+"45 413 OFFCURVE",
+"45 244 CURVE SMOOTH",
+"45 75 OFFCURVE",
+"126 -10 OFFCURVE",
+"250 -10 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"177 54 OFFCURVE",
-"144 120 OFFCURVE",
-"144 244 CURVE SMOOTH",
-"144 369 OFFCURVE",
-"177 434 OFFCURVE",
-"255 434 CURVE SMOOTH",
-"332 434 OFFCURVE",
-"365 369 OFFCURVE",
-"365 244 CURVE SMOOTH",
-"365 120 OFFCURVE",
-"332 54 OFFCURVE",
-"255 54 CURVE SMOOTH"
+"172 54 OFFCURVE",
+"139 120 OFFCURVE",
+"139 244 CURVE SMOOTH",
+"139 369 OFFCURVE",
+"172 434 OFFCURVE",
+"250 434 CURVE SMOOTH",
+"327 434 OFFCURVE",
+"360 369 OFFCURVE",
+"360 244 CURVE SMOOTH",
+"360 120 OFFCURVE",
+"327 54 OFFCURVE",
+"250 54 CURVE SMOOTH"
 );
 }
 );
-width = 509;
+width = 499;
 }
 );
 unicode = 006F;

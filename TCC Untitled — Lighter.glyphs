@@ -1,7 +1,7 @@
 {
 .appVersion = "1158";
 DisplayStrings = (
-guernica
+"Maravilha!\012Nada!"
 );
 date = "2017-07-08 18:27:59 +0000";
 familyName = "TCC Untitled";
@@ -1377,7 +1377,7 @@ unicode = 004C;
 },
 {
 glyphname = M;
-lastChange = "2018-04-19 10:52:48 +0000";
+lastChange = "2018-09-14 15:59:21 +0000";
 layers = (
 {
 layerId = "44A3F285-AC1C-4A7F-B2BD-0C498DBF5AFB";
@@ -1386,17 +1386,17 @@ paths = (
 closed = 1;
 nodes = (
 "140 0 LINE",
-"189 600 LINE",
-"322 0 LINE",
-"421 0 LINE",
-"555 600 LINE",
+"169 600 LINE",
+"319 0 LINE",
+"418 0 LINE",
+"575 600 LINE",
 "613 0 LINE",
 "707 0 LINE",
-"630 685 LINE",
-"496 685 LINE",
-"377 123 LINE",
-"262 685 LINE",
-"120 685 LINE",
+"650 685 LINE",
+"516 685 LINE",
+"375 113 LINE",
+"238 685 LINE",
+"100 685 LINE",
 "52 0 LINE"
 );
 }
@@ -1432,13 +1432,13 @@ unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2018-04-19 10:55:25 +0000";
+lastChange = "2018-09-14 16:03:32 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{325, 685}";
+position = "{333, 685}";
 }
 );
 layerId = "44A3F285-AC1C-4A7F-B2BD-0C498DBF5AFB";
@@ -1451,21 +1451,21 @@ nodes = (
 "176 499 OFFCURVE",
 "172 545 OFFCURVE",
 "168 585 CURVE",
-"416 0 LINE",
-"541 0 LINE",
-"541 685 LINE",
-"455 685 LINE",
-"455 301 LINE SMOOTH",
-"455 211 OFFCURVE",
-"459 140 OFFCURVE",
-"463 100 CURVE",
+"429 0 LINE",
+"554 0 LINE",
+"554 685 LINE",
+"468 685 LINE",
+"468 301 LINE SMOOTH",
+"468 211 OFFCURVE",
+"472 140 OFFCURVE",
+"476 100 CURVE",
 "210 685 LINE",
 "90 685 LINE",
 "90 0 LINE"
 );
 }
 );
-width = 631;
+width = 644;
 },
 {
 anchors = (
@@ -1507,7 +1507,7 @@ unicode = 004E;
 },
 {
 glyphname = Ntilde;
-lastChange = "2018-05-29 04:45:47 +0000";
+lastChange = "2018-09-14 16:03:34 +0000";
 layers = (
 {
 components = (
@@ -1516,11 +1516,11 @@ name = N;
 },
 {
 name = tildecomb.case;
-transform = "{1, 0, 0, 1, 155, 0}";
+transform = "{1, 0, 0, 1, 163, 0}";
 }
 );
 layerId = "44A3F285-AC1C-4A7F-B2BD-0C498DBF5AFB";
-width = 631;
+width = 644;
 },
 {
 components = (

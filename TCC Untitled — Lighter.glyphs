@@ -1,7 +1,7 @@
 {
 .appVersion = "1158";
 DisplayStrings = (
-"s2 this heart is pretty stylish. ain/quoteright t it?!"
+guernica
 );
 date = "2017-07-08 18:27:59 +0000";
 familyName = "TCC Untitled";
@@ -4061,7 +4061,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2018-04-19 10:52:48 +0000";
+lastChange = "2018-09-14 01:57:32 +0000";
 layers = (
 {
 annotations = (
@@ -4108,16 +4108,16 @@ nodes = (
 "386 0 OFFCURVE",
 "386 -45 CURVE SMOOTH",
 "386 -99 OFFCURVE",
-"346 -155 OFFCURVE",
-"251 -155 CURVE SMOOTH",
-"163 -155 OFFCURVE",
-"117 -108 OFFCURVE",
-"117 -56 CURVE SMOOTH",
-"117 -10 OFFCURVE",
-"153 30 OFFCURVE",
-"208 30 CURVE",
-"130 53 LINE",
-"84 38 OFFCURVE",
+"346 -152 OFFCURVE",
+"251 -152 CURVE SMOOTH",
+"162 -152 OFFCURVE",
+"125 -108 OFFCURVE",
+"125 -56 CURVE SMOOTH",
+"125 -10 OFFCURVE",
+"154 30 OFFCURVE",
+"214 30 CURVE",
+"140 50 LINE",
+"98 42 OFFCURVE",
 "42 2 OFFCURVE",
 "42 -64 CURVE SMOOTH",
 "42 -140 OFFCURVE",

@@ -1,5 +1,5 @@
 {
-.appVersion = "1060";
+.appVersion = "1158";
 DisplayStrings = (
 nnannooaoo
 );
@@ -2442,7 +2442,7 @@ unicode = 0131;
 },
 {
 glyphname = iacute;
-lastChange = "2017-09-13 19:37:36 +0000";
+lastChange = "2018-10-28 04:25:38 +0000";
 layers = (
 {
 anchors = (
@@ -2464,7 +2464,7 @@ name = acutecomb;
 }
 );
 layerId = "44A3F285-AC1C-4A7F-B2BD-0C498DBF5AFB";
-width = 288;
+width = 285;
 }
 );
 unicode = 00ED;
@@ -2894,7 +2894,7 @@ unicode = 006F;
 },
 {
 glyphname = oacute;
-lastChange = "2017-09-17 19:23:26 +0000";
+lastChange = "2018-10-28 04:25:38 +0000";
 layers = (
 {
 components = (
@@ -2903,18 +2903,18 @@ name = o;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 184, 0}";
+transform = "{1, 0, 0, 1, 179, 0}";
 }
 );
 layerId = "44A3F285-AC1C-4A7F-B2BD-0C498DBF5AFB";
-width = 509;
+width = 499;
 }
 );
 unicode = 00F3;
 },
 {
 glyphname = otilde;
-lastChange = "2017-09-17 19:23:26 +0000";
+lastChange = "2018-10-28 04:25:38 +0000";
 layers = (
 {
 components = (
@@ -2923,11 +2923,11 @@ name = o;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 71, 0}";
+transform = "{1, 0, 0, 1, 66, 0}";
 }
 );
 layerId = "44A3F285-AC1C-4A7F-B2BD-0C498DBF5AFB";
-width = 509;
+width = 499;
 }
 );
 unicode = 00F5;
